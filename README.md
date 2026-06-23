@@ -154,19 +154,19 @@ Seasonality is modelled to reflect real UAE beauty retail patterns — Ramadan p
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](visuals/page1-executive-overview.png)
+![Executive Overview](visuals/executive-overview.png)
 
 ### eCommerce & Sales Performance
-![eCommerce](visuals/page2-ecommerce-sales.png)
+![eCommerce](visuals/eCommerce-salesPerformance.png)
 
 ### Product & Category Analytics
-![Products](visuals/page3-product-analytics.png)
+![Products](visuals/product-analytics.png)
 
 ### Marketing & Campaign ROI
-![Marketing](visuals/page4-marketing-roi.png)
+![Marketing](visuals/marketing-roi.png)
 
 ### Supply Chain & Inventory
-![Supply Chain](visuals/page5-supply-chain.png)
+![Supply Chain](visuals/supply-chain.png)
 
 ---
 
