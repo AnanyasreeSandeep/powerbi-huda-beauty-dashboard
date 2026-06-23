@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,SubCategory,RetailPrice,Status,LaunchYear
+P001,Faux Filter Foundation,Face,Foundation,29.0,Active,2015
+P002,GloWish Multidew Skin Tint,Face,Skin Tint,34.0,Active,2021
+P003,Nude Obsessions Eyeshadow Palette,Eyes,Palette,65.0,Active,2019
+P004,Easy Bake Loose Powder,Face,Setting Powder,35.0,Active,2015
+P005,Legit Lashes Mascara,Eyes,Mascara,26.0,Active,2018
+P006,Power Bullet Matte Lipstick,Lips,Lipstick,22.0,Active,2017
+P007,N.Y.M.P.H. Illuminating Primer,Face,Primer,38.0,Active,2020
+P008,GloWish Blush Stick,Face,Blush,28.0,Active,2022
+P009,Kayali Vanilla 28 Perfume,Fragrance,Perfume,120.0,Active,2018
+P010,Mini GloWish Set,Face,Gift Set,55.0,Seasonal,2022
+P011,Lash'd Mascara,Eyes,Mascara,29.0,Active,2021
+P012,Contour & Strobe Stick,Face,Contour,31.0,Active,2016
+P013,Power Bullet Metallic Lipstick,Lips,Lipstick,25.0,Active,2019
+P014,Life Liner Dual-Ended Eyeliner,Eyes,Liner,18.0,Active,2016
+P015,Rose Gold Remastered Palette,Eyes,Palette,75.0,Seasonal,2019

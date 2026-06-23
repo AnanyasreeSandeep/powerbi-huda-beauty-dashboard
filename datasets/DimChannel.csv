@@ -1,0 +1,9 @@
+ChannelID,ChannelName,ChannelType,PartnerType
+CH01,Huda Beauty Website,eCommerce,Direct
+CH02,Amazon UAE,eCommerce,Marketplace
+CH03,Namshi,eCommerce,Marketplace
+CH04,Sephora UAE (Online),eCommerce,Retailer
+CH05,Sephora UAE (In-Store),Retail,Retailer
+CH06,Noon Beauty,eCommerce,Marketplace
+CH07,Harvey Nichols,Retail,Retailer
+CH08,Bloomingdales UAE,Retail,Retailer

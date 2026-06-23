@@ -1,0 +1,11 @@
+CampaignID,CampaignName,CampaignType,StartDate,EndDate,Channel,Budget_USD
+CAM001,Ramadan Glow 2023,Seasonal,2023-03-22,2023-04-20,Social Media,80000
+CAM002,Summer Essentials 2023,Seasonal,2023-06-01,2023-08-31,Influencer,60000
+CAM003,Back to Glam 2023,Promotional,2023-09-01,2023-09-30,Email + Social,45000
+CAM004,Eid Collection Launch,Product Launch,2023-04-15,2023-04-30,Social Media,95000
+CAM005,Black Friday 2023,Promotional,2023-11-20,2023-11-30,Paid Ads,120000
+CAM006,Festive Season 2023,Seasonal,2023-12-01,2023-12-31,Influencer + Paid,110000
+CAM007,Ramadan Glow 2024,Seasonal,2024-03-10,2024-04-09,Social Media,90000
+CAM008,GloWish Relaunch 2024,Product Launch,2024-05-01,2024-05-31,Influencer,75000
+CAM009,Summer Vibes 2024,Seasonal,2024-06-15,2024-08-15,Email + Social,55000
+CAM010,Black Friday 2024,Promotional,2024-11-20,2024-11-30,Paid Ads,130000
